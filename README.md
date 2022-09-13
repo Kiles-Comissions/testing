@@ -13,10 +13,10 @@
     <img alt="Lines" src="https://img.shields.io/tokei/lines/github/Kile/testing">
   </a>
   <a>
-    <img scr="https://img.shields.io/github/commit-activity/Kile/testing">
+    <img scr="https://img.shields.io/github/commit-activity/Kiles-Comissions/testing">
   </a>
     <a>
-    <img scr="https://img.shields.io/github/license/Kile/testing">
+    <img scr="https://img.shields.io/github/license/Kiles-Comissions/testing">
   </a>
 </p>
 
